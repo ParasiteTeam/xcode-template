@@ -80,7 +80,7 @@
 		<string>Info.plist:bundle</string>
 		<string>Info.plist:NSHumanReadableCopyright</string>
 		<string>___PACKAGENAME___.m</string>
-		<string>Info.plist:OPFilters</string>
+		<string>Info.plist:PSFilters</string>
 	</array>
 	<key>Definitions</key>
 	<dict>
@@ -101,7 +101,7 @@
 &lt;string&gt;&lt;/string&gt;
 </string>
 		<key>Info.plist:OPFilters</key>
-		<string>&lt;key&gt;OPFilters&lt;/key&gt;
+		<string>&lt;key&gt;PSFilters&lt;/key&gt;
 	&lt;dict&gt;
 		&lt;key&gt;Executables&lt;/key&gt;
 		&lt;array&gt;
